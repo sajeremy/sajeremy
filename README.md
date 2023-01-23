@@ -1,5 +1,4 @@
-### Hi there 👋
-##### My name is Jeremy Santiago and I'm a full stack engineer with 5+ years of professional working experience as an engineer in research and product development roles.
+Hi there 👋, my name is Jeremy Santiago and I'm a full stack engineer with 5+ years of professional engineering work experience in research and product development roles.
 
 - 🌱 I’m currently reviewing data structures and algorithms.
 - 👯 I’m looking to collaborate on machine learning applications.
