@@ -1,5 +1,6 @@
 Hi there 👋, my name is Jeremy Santiago and I'm a full stack engineer with 5+ years of professional engineering work experience in research and product development roles.
 
+- 😄 Pronouns: he/him/his
 - 🌱 I’m currently reviewing data structures and algorithms.
 - 👯 I’m looking to collaborate on machine learning applications.
 - 📫 How to reach me:
@@ -7,7 +8,7 @@ Hi there 👋, my name is Jeremy Santiago and I'm a full stack engineer with 5+ 
      - [![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=white)](https://angel.co/u/jeremy-santiago-1)
      - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:9jsantiago4@gmail.com)
      - [![Personal Site](https://img.shields.io/badge/-Personal%20Portfolio%20-green?style=for-the-badge)](https://jeremy-santiago.com/)
-- 😄 Pronouns: he/him/his
+
 
 
 
