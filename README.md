@@ -1,8 +1,7 @@
-Hi there 👋, my name is Jeremy Santiago and I'm a full stack engineer with 5+ years of professional engineering work experience in research and product development roles.
+Hi there 👋, my name is Jeremy Santiago and I'm an engineer with 5+ years of work experience in research and product development roles.
 
 - 😄 Pronouns: he/him/his
-- 🌱 I’m currently reviewing data structures and algorithms.
-- 👯 I’m looking to collaborate on machine learning applications.
+- 👯 I’m looking to collaborate on design and machine learning applications.
 - 📫 How to reach me:
      - [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeremy-santiago-11b05367)
      - [![AngelList](https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=white)](https://angel.co/u/jeremy-santiago-1)
@@ -16,7 +15,7 @@ Hi there 👋, my name is Jeremy Santiago and I'm a full stack engineer with 5+ 
 **sajeremy/sajeremy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 🌱 I’m currently reviewing data structures and algorithms.
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
